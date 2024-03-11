@@ -1,0 +1,5 @@
+streamlit run "C:\Users\Zaid Hussain\OneDrive\Desktop\Multiple_D\Multiple_D\Multiple Disease Prediction system.py"
+
+
+
+youtube link:-   https://youtube.com/playlist?list=PLfFghEzKVmjuhQwKhYXvdU94GSU-6Jcjr&si=6pzoejosuoaiHyYN

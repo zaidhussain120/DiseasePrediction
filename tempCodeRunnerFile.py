@@ -1,0 +1,1 @@
+C:/Users/Zaid Hussain/OneDrive/Desktop/Multiple_D/Multiple_D/diabetes.csv
