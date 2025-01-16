@@ -1,3 +1,3 @@
 # DiseasePrediction
 There are several diseases in the world which requires some serious examination and prediction techniques. Today we have several methods to predict these diseases on the basis of their symptoms. We as human has developed various systems that helps us to predict these diseases efficiently. Heart disease and diabetes are one of those diseases which are a major reason of serious deaths around the globe. Taking into account this alarming issue, strategic planning is needed to be enforced to measure the growing trend in the disease and to accordingly plan the preventive measures for both the individual and the population level.
-Prevention of diabetes is also must because diabetes is also a reason severe heart disease.
+Prevention of diabetes is also must because diabetes is also a reason severe heart disease..
